@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<route>
+	<station id="1">
+    		<city> BIALYSTOK </city>
+    		<street>UL. BOHATEROW MONTE CASSINO 6</street>
+    		<departureTime>8:00</departureTime>
+		<distanceFromID1>0</distanceFromID1>
+  	</station>
+  	<station id="2">
+    		<city>ZAMBROW</city>
+    		<street>UL. MAZOWIECKA 2</street>
+    		<departureTime>9:20</departureTime>
+		<distanceFromID1>71</distanceFromID1>
+  	</station>
+	<station id="3">
+    		<city>SIEDLCE</city>
+    		<street>UL. PARTYZANTOW 14</street>
+    		<departureTime>11:10</departureTime>
+		<distanceFromID1>232</distanceFromID1>
+  	</station>
+	<station id="4">
+    		<city>LUBLIN</city>
+    		<street>UL. NADSTAWNA 2</street>
+    		<departureTime>12:15</departureTime>
+		<distanceFromID1>337</distanceFromID1>
+  	</station>
+	<station id="5">
+    		<city> KRASNIK </city>
+    		<street>UL. LUBELSKA 47</street>
+    		<departureTime>13:05</departureTime>
+		<distanceFromID1>390</distanceFromID1>
+  	</station>
+	<station id="6">
+    		<city> SANDOMIERZ </city>
+    		<street>UL. 11 LISTOPADA</street>
+    		<departureTime>13:40</departureTime>
+		<distanceFromID1>430</distanceFromID1>
+  	</station>
+	<station id="7">
+    		<city>RZESZOW</city>
+    		<street>UL. GROTTGERA 2</street>
+    		<departureTime>14:25</departureTime>
+		<distanceFromID1>514</distanceFromID1>
+  	</station>
+</route>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<route>
+	<station id="1">
+    		<city>POZNAN</city>
+    		<street>UL. MATYI 2</street>
+   		<departureTime>9:30</departureTime>
+		<distanceFromID1>0</distanceFromID1>
+  	</station>
+	<station id="2">
+    		<city>SREM</city>
+    		<street>UL. SADOWA 1</street>
+    		<departureTime>10:45</departureTime>
+		<distanceFromID1>53</distanceFromID1>
+	</station>
+	<station id="3">
+    		<city>ZMIGROD</city>
+    		<street>UL. KOLODZIEJA 22</street>
+    		<departureTime>11:10</departureTime>
+		<distanceFromID1>138</distanceFromID1>
+  	</station>
+	<station id="4">
+    		<city>WROCLAW</city>
+    		<street>UL. SUCHA 1</street>
+    		<departureTime>13:35</departureTime>
+		<distanceFromID1>188</distanceFromID1>
+  	</station>
+	<station id="5">
+    		<city>GLIWICE</city>
+    		<street>UL. PLAC PIASTOW 6</street>
+    		<departureTime>14:05</departureTime>
+		<distanceFromID1>355</distanceFromID1>
+  	</station>
+  	<station id="6">
+    		<city>KATOWICE</city>
+    		<street>UL. SKARGI 1</street>
+    		<departureTime>15:00</departureTime>
+		<distanceFromID1>383</distanceFromID1>
+  	</station>
+	<station id="7">
+    		<city>KRAKOW</city>
+    		<street>UL. BOSACKA 18</street>
+    		<departureTime>16:05</departureTime>
+		<distanceFromID1>464</distanceFromID1>
+  	</station>
+</route>

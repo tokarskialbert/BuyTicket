@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<route>
+	<station id="1">
+    		<city>ZAKOPANE</city>
+    		<street>L. KOSCIUSZKI 25</street>
+    		<departureTime>8:00</departureTime>
+		<distanceFromID1>0</distanceFromID1>
+  	</station>
+  	<station id="2">
+    		<city>NOWY TARG</city>
+    		<street>UL. TOKARSKIEGO 1</street>
+    		<departureTime>8:25</departureTime>
+		<distanceFromID1>30</distanceFromID1>
+  	</station>
+	<station id="3">
+    		<city> MYSLENICE </city>
+    		<street>UL. SLONECZNA 2</street>
+    		<departureTime>9:25</departureTime>
+		<distanceFromID1>80</distanceFromID1>
+  	</station>
+	<station id="4">
+    		<city>KRAKOW</city>
+    		<street>UL. BOSACKA 18</street>
+    		<departureTime>10:35</departureTime>
+		<distanceFromID1>120</distanceFromID1>
+  	</station>
+	<station id="5">
+    		<city>MIECHOW</city>
+    		<street>UL. PODZAMCZE 40</street>
+    		<departureTime>11:15</departureTime>
+		<distanceFromID1>160</distanceFromID1>
+  	</station>
+	<station id="6">
+    		<city> JEDRZEJOW </city>
+    		<street>UL. REYMONTA 11</street>
+    		<departureTime>12:05</departureTime>
+		<distanceFromID1>210</distanceFromID1>
+  	</station>
+	<station id="7">
+    		<city>KIELCE</city>
+    		<street>UL. CZARNOWSKA 18</street>
+    		<departureTime>12:40</departureTime>
+		<distanceFromID1>240</distanceFromID1>
+  	</station>
+</route>
